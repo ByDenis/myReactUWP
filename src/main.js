@@ -2,7 +2,9 @@
 
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./app.js";
+
+import App from "./app-react.js";
+import webgl from "./app-webgl.js";
 
 import './styles/css.css';
 
